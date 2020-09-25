@@ -1,3 +1,31 @@
+## Programming Assigment Week 1 - Submission
+`plot1.png`, `plot2.png`, etc. are found in the `output` folder  
+`plot1.R`, `plot2.R`, etc. are found in the root folder  
+
+### Plot 1
+
+
+![output/plot1.png](output/plot1.png) 
+
+
+### Plot 2
+
+![output/plot2.png](output/plot2.png) 
+
+
+### Plot 3
+
+![output/plot3.png](output/plot3.png) 
+
+
+### Plot 4
+
+![output/plot4.png](output/plot4.png) 
+
+
+
+-------------
+
 ## Introduction
 
 This assignment uses data from
