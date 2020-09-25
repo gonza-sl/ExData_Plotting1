@@ -15,7 +15,7 @@ pow_feb2007[, c("Date","Time"):=NULL]
 
 
 
-png(filename = "output/plot2.png")
+png(filename = "plot2.png")
 
 # Global Active Power
 with(pow_feb2007, {

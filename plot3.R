@@ -15,7 +15,7 @@ pow_feb2007[, c("Date","Time"):=NULL]
 
 
 
-png(filename = "output/plot3.png")
+png(filename = "plot3.png")
 
 # Submetering 
 with(pow_feb2007, {

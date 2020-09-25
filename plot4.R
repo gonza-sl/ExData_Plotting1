@@ -14,7 +14,7 @@ pow_feb2007[,Datetime := dmy_hms(paste(Date, Time))]
 pow_feb2007[, c("Date","Time"):=NULL] 
 
 
-png(filename = "output/plot4.png")
+png(filename = "plot4.png")
 
 par(mfcol=c(2,2))
 

@@ -15,7 +15,7 @@ pow_feb2007[, c("Date","Time"):=NULL]
 
 
 
-png(filename = "output/plot1.png")
+png(filename = "plot1.png")
 
 # Histogram Global Active Power
 hist(pow_feb2007$Global_active_power, breaks = 12, col = "red", 
